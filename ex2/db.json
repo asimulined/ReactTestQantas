@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": "001",
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 20,
+      "grade": "D"
+    },
+    {
+      "id": "002",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "age": 25,
+      "grade": "HD"
+    },
+    {
+      "id": "003",
+      "firstName": "Billy",
+      "lastName": "Smith",
+      "age": 19,
+      "grade": "C"
+    },
+    {
+      "id": "004",
+      "firstName": "John",
+      "lastName": "Williams",
+      "age": 23,
+      "grade": "P"
+    },
+    {
+      "id": "005",
+      "firstName": "Jimmy",
+      "lastName": "Smith",
+      "age": 21,
+      "grade": "D"
+    },
+    {
+      "id": "006",
+      "firstName": "Peter",
+      "lastName": "Anderson",
+      "age": 20,
+      "grade": "C"
+    },
+    {
+      "id": "007",
+      "firstName": "Cheng",
+      "lastName": "Jia",
+      "age": 30,
+      "grade": "HD"
+    }
+  ]
+}
